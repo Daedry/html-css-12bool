@@ -1,0 +1,11 @@
+[class*="col-"]{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.col-2.nested{
+    flex-grow: ;
+}
+
